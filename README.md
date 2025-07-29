@@ -17,6 +17,14 @@ I'm a results-driven **Data Analyst** with 3+ years of experience uncovering ins
 
 ---
 
+### 🚀 What I’m Exploring Right Now
+
+- 🕸 **Graph algorithms & GNNs** for supply‑chain forensics  
+- 🔎 **RAG pipelines** (FAISS + OpenAI) for domain‑aware retrieval  
+- ☁️ **Productionising LLM apps** with FastAPI, Docker & AWS
+
+---
+
 ### 🛠️ Technical Skills
 
 **Languages & Tools:** Python, SQL, R, Power BI, Tableau, Excel (VBA, Power Query), Looker, Qlik, Google Data Studio  
