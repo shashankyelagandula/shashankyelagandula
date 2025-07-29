@@ -93,4 +93,8 @@ I'm a results-driven **Data Analyst** with 3+ years of experience uncovering ins
 
 ---
 
-> 🚀 Looking for full-time roles in Data Analytics, BI, or Data Engineering where I can solve high-impact problems and keep learning. Let’s connect and talk data!
+### 🤝 Let’s Connect
+
+If you’ve got a complex dataset that needs taming, a product idea that needs insights, or a wild hypothesis you want to test —  
+**shoot me a message and let’s build something meaningful.** 🚀  
+I'm always open to collaborations, freelance gigs, full-time roles, or just geeking out over cool data projects!
