@@ -81,16 +81,6 @@ I'm a results-driven **Data Analyst** with 3+ years of experience uncovering ins
 - English (Professional)  
 - Telugu (Native)  
 - Hindi (Native)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankyelagandula&show_icons=true&theme=gruvbox" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankyelagandula&layout=compact&theme=gruvbox" width="335" />
-</p>
-
 ---
 
 ### 🤝 Let’s Connect
