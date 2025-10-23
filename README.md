@@ -37,7 +37,7 @@ I'm a results-driven **Data Analyst** with 3+ years of experience uncovering ins
 
 ### 📈 Experience Highlights
 
-#### **Merck** — *Data Analyst*  
+#### **BCBS** — *Data Analyst*  
 *Mar 2025 – Present | United States*
 - Analyzed EHRs, claims, and clinical trial data to improve R&D by 30%
 - Built SQL-driven reporting systems to streamline decision-making
