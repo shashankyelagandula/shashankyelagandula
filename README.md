@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm a results-driven **Data Analyst** with 3+ years of experience uncovering insights from complex datasets to drive strategic decisions in healthcare, finance, and R&D. With a Master's degree in Data Analytics Engineering from **George Mason University** and hands-on experience at **Merck, TCS**, and **Trigent**, I specialize in transforming raw data into powerful narratives.
+I'm a results-driven **Data Analyst** with 3+ years of experience uncovering insights from complex datasets to drive strategic decisions in healthcare, finance, and R&D. With a Master's degree in Data Analytics Engineering from **George Mason University** and hands-on experience at **BCBS, TCS**, and **Trigent**, I specialize in transforming raw data into powerful narratives.
 
 - 📊 Turn 1M+ rows of raw data into clear, actionable insights  
 - ⚙️ Build ETL pipelines using **Azure, AWS, Databricks, Spark, Kafka**  
